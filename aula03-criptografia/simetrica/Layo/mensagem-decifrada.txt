@@ -1,0 +1,1 @@
+Mensagem secreta do ALexandre para testar a criptografia simetrica
