@@ -1,0 +1,1 @@
+Mensagem secreta do Layo para testar a criptografia simétrica.
