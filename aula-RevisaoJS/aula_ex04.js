@@ -1,0 +1,17 @@
+class Animal{
+
+    constructor(nome,tipo){
+        this.nome = nome;
+        this.tipo = tipo;
+
+    }
+    exibirInformacao(){
+        return `Esse é um ${this.tipo} chamando ${this.nome}`
+    }
+}
+
+const cachorro = new Animal("Duck", "cachorro");
+const gato = new Animal("Noel", "gato")
+
+console.log(cachorro.exibirInformacao());
+console.log(gato.exibirInformacao());
