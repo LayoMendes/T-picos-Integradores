@@ -2,7 +2,7 @@
 
 //Usando var (escopo global)
 
-var nome = "Layo";
+/*var nome = "Layo";
 console.log(nome);
 
 
@@ -34,3 +34,4 @@ if(true){
 
 
 console.log(pi)
+*/
